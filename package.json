@@ -1,0 +1,23 @@
+{
+  "name": "central-server",
+  "version": "1.0.0",
+  "description": "Node.js backend for all \"central\" devices",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlhinson/central-server.git"
+  },
+  "author": "John Hinson",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/jlhinson/central-server/issues"
+  },
+  "homepage": "https://github.com/jlhinson/central-server#readme",
+  "dependencies": {
+    "mqtt": "4.3.1"
+  }
+}
